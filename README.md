@@ -1,0 +1,3 @@
+- Derived Data from the Nasdaq stock exchange
+- Conducted visualization project to detect opportunities for arbitrage
+- Utilized concept of Crypto pairings to determine coin exchange opportunties
